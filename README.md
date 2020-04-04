@@ -1,1 +1,2 @@
-# This is for Docker Lab 2 #
+# Lab 2 for COMP 3916
+# Author: Tuerxun Kuerban
